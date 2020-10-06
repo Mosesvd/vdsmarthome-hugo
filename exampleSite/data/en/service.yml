@@ -3,6 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Automation
+    icon: ''
+    content: 'were intergra become '
   - name: Audio
     icon: audio
     content: 'get a sorround sound '
