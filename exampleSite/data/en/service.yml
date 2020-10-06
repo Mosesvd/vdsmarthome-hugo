@@ -3,6 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Audio
+    icon: audio
+    content: 'get a sorround sound '
   - name: Broadcasting Solution
     icon: ''
     content: we deliver ur content accross multiple platform
