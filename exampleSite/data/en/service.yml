@@ -3,6 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Curtain and Shades
+    icon: ''
+    content: control ur curtain and shade
   - name: Lighting control
     icon: ''
     content: control all ur lighting system to suite ur mood
