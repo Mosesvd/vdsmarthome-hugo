@@ -3,6 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Lighting control
+    icon: ''
+    content: control all ur lighting system to suite ur mood
   - name: Automation
     icon: ''
     content: 'were intergra become '
