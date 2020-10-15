@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "vidi technology"
 title = "VIDI TECHNOLOGY LTD"
 [Languages.en]
 contentDir = "content/english"
