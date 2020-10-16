@@ -20,7 +20,10 @@ service:
     content: 'get a sorround sound '
   - name: Broadcasting Solution
     icon: ''
-    content: we deliver ur content accross multiple platform
+    content: |-
+      we empower the broadcast and media industry through transformative innovations. Our  Engineers are a technology focused in broadcasting and  media systems Integration for TV & Radio Studios, OB Vans & Flyaway Kits, Master Control Rooms, Playout Centres, Transmissions & Earth Station Systems. We have years of experience in broadcast media. Our in-house team of Designers, Engineers, Project Managers work with industry leaders for the design and build of bespoke technical facilities.
+
+      Our focus is to future proof customer requirements at competitive rates without compromising technical excellence. We have built very strong partnerships with many clients, delivering high quality work, in budget and on time.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
