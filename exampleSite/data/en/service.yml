@@ -17,7 +17,7 @@ service:
   - name: Lighting control
     icon: ''
     content: control all ur lighting system to suite ur mood
-  - name: ''
+  - name: Smart Automation
     icon: ''
     content: |+
       Vidi Technology can automate your Home and Office space to create and deliver a luxury experience using innovative Technology to transform your lifestyle.
