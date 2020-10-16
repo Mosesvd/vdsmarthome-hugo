@@ -3,6 +3,14 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Audio Visual (AV)
+    icon: ''
+    content: "\nWhether you are looking to keep board members attention during a presentation
+      or have a cinema experience in your own home, Vidi technology can design a customized
+      audiovisual solution to suit your needs. Ask us about the products and solutions
+      now available for home theatres, multimedia, audiovisual (AV) distribution,
+      multi-room audio, Hi-Fi, MATV, PA systems, structured cabling and hearing aid
+      loop system.  \n"
   - name: Security and Safety
     icon: ''
     content: let ur satey be oours
