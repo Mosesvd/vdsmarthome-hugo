@@ -23,9 +23,15 @@ service:
   - name: Automation
     icon: ''
     content: 'were intergra become '
-  - name: Audio
-    icon: audio
-    content: 'get a sorround sound '
+  - name: " AUDIO SYSTEM"
+    icon: " AUDIO SYSTEM:   "
+    content: "Trust Vidi Technology to provide a brilliant audio with the ability
+      to stream personalized music from each room and a premium sound production,
+      transforming each of your living space into an enviable Audio Oasis from multi
+      room systems to Home Theater. You will be assured that there is always a solution
+      to meet your needs. \nWe provide both residential and commercial audio services
+      including multizone installations, paging systems, retail music systems. We
+      can assess your needs and design a solution to fit your budget.\n"
   - name: Broadcasting Solution
     icon: ''
     content: |-
