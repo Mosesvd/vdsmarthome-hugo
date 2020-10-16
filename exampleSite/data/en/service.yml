@@ -5,12 +5,9 @@ service:
   service_item:
   - name: Audio Visual (AV)
     icon: ''
-    content: "\nWhether you are looking to keep board members attention during a presentation
-      or have a cinema experience in your own home, Vidi technology can design a customized
-      audiovisual solution to suit your needs. Ask us about the products and solutions
-      now available for home theatres, multimedia, audiovisual (AV) distribution,
-      multi-room audio, Hi-Fi, MATV, PA systems, structured cabling and hearing aid
-      loop system.  \n"
+    content: |2
+
+      Whether you are looking to keep board members attention during a presentation or have a cinema experience in your own home, Vidi technology can design a customized audiovisual solution to suit your needs. Ask us about the products and solutions now available for home theatres
   - name: Security and Safety
     icon: ''
     content: let ur satey be oours
@@ -20,9 +17,13 @@ service:
   - name: Lighting control
     icon: ''
     content: control all ur lighting system to suite ur mood
-  - name: Automation
+  - name: ''
     icon: ''
-    content: 'were intergra become '
+    content: |+
+      Vidi Technology can automate your Home and Office space to create and deliver a luxury experience using innovative Technology to transform your lifestyle.
+      Imagine that with one command from your voice or a touch the movie starts, the shades closes, light dims and the surround sound kicks in at the perfect Volume.
+      There is no better way to make your home or business more convenient and enjoyable than by integrating your various systems using Vidi technology easy-to-use automation solutions. Ask us about the home and business automation options available now.
+
   - name: " AUDIO SYSTEM"
     icon: " AUDIO SYSTEM:   "
     content: "Trust Vidi Technology to provide a brilliant audio with the ability
