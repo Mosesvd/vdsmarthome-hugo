@@ -5,8 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: " VIDI TECHNOLOGY LTD"
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: We are industry professionals for cutting edge technology solution,we create
+    technology solution that take good care of your daily routines With a wide range
+    of products and years of experience,
   button:
     enable: true
     label: Explore Us
