@@ -55,9 +55,9 @@ pre = "#"
 url = "contact"
 weight = 7
 [[menu.main]]
-name = "themefisher"
+name = "vd"
 pre = ""
-url = "https://themefisher.com/"
+url = "https://vdsmarthome.com/"
 weight = 8
 [params]
 author = "VIDI TECHNOLOGY LTD"
