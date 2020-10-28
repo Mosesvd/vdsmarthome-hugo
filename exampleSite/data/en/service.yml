@@ -19,10 +19,9 @@ service:
     content: |-
       We offer a wide range of solution to control and integrate your lighting system so you can set the perfect mood weather warm, bright, faded you name it!!With just one touch or command.
       We install beautiful Lighting and Control systems that can do it all which allow you to create different scenes for ‘Mood Lighting’ and scheduling when you’re away.
-  - name: SMART AUTOMATION
+  - name: Smart Automation
     icon: ''
     content: |+
-      Vidi Technology can automate your Home and Office space to create and deliver a luxury experience using innovative Technology to transform your lifestyle.
       Imagine that with one command from your voice or a touch the movie starts, the shades closes, light dims and the surround sound kicks in at the perfect Volume.
       There is no better way to make your home or business more convenient and enjoyable than by integrating your various systems using Vidi technology easy-to-use automation solutions. Ask us about the home and business automation options available now.
 
