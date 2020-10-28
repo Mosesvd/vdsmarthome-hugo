@@ -14,9 +14,11 @@ service:
   - name: Curtain and Shades
     icon: ''
     content: control ur curtain and shade
-  - name: Lighting control
+  - name: Lighting Control
     icon: ''
-    content: control all ur lighting system to suite ur mood
+    content: |-
+      We offer a wide range of solution to control and integrate your lighting system so you can set the perfect mood weather warm, bright, faded you name it!!With just one touch or command.
+      We install beautiful Lighting and Control systems that can do it all which allow you to create different scenes for ‘Mood Lighting’ and scheduling when you’re away.
   - name: SMART AUTOMATION
     icon: ''
     content: |+
